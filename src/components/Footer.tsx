@@ -70,7 +70,7 @@ export const Footer = () => {
                 Email: support@findunited.edu
               </li>
               <li className="text-slate-600 dark:text-slate-400">
-                Phone: (555) 123-4567
+                Phone: 996-786-3478
               </li>
               <li className="text-slate-600 dark:text-slate-400">
                 Location: Student Center, Room 101
