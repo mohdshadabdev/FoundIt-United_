@@ -1,5 +1,5 @@
 
-# FindIt@United 🎒📱
+# FindIt@United 
 
 **Live Project:** [https://foundituu.netlify.app/](https://foundituu.netlify.app/)
 
@@ -89,3 +89,9 @@ bun dev
 ---
 
 > "Lost something? Someone might’ve found it! Let FindIt@United help you reconnect." 💫
+
+## Contributors
+
+-Harshit Pandey (IVth Semester, BCA, United University)
+
+-Mohd Shadab (IVth Semester, BCA, United University)
